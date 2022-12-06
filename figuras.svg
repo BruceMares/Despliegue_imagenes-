@@ -1,0 +1,8 @@
+<?xml version="1.0" standalone="no"?>
+<svg width="3000" height="3000" xmlns="http://www.w3.org/2000/svg">
+    <line x1="450" y1="220" x2="650" y2="120" stroke-width="20" stroke="rgb(15, 140, 104, 1)" />
+    <rect x="50" y="50" width="170" height="220" fill="#FF5733" stroke="orange" stroke-width="20" />
+    <ellipse cx="300" cy="140" rx="50" ry="100" fill="rgba(44, 53, 124 , 1)" stroke="blue" stroke-width="10"/>
+    <circle cx="450" cy="100" stroke-width="14" stroke=" #1CAB17 " fill="rgb(100, 150, 200)" r="75" />
+    <text x="250" y="280" font-family="Arial" font-size="32" fill="#46067B" class="small"> Texto de muestra </text>
+</svg>
