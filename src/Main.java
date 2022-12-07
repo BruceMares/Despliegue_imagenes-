@@ -33,7 +33,7 @@ public class Main {
             public void run() {
                 MiJFrame miJframe = new MiJFrame(figurasParseadas, 900, 600);
                 miJframe.setSize(900, 600);
-                miJframe.setResizable(false);
+                miJframe.setResizable(true);
                 miJframe.setVisible(true);
             }
         });
